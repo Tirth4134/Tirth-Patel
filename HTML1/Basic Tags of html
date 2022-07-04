@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="/css/style1.css">
+</head>
+<body>
+  <h1>Hello</h1>
+  <h2>Hello</h2>
+  <h3>Hello</h3>
+  <h4>Hello</h4>
+  <h5>Hello</h5>
+  <h6>Hello</h6>
+    <b><i> hello, My self Rajput Roopal</i></b>
+   <h3>Hello</h3>
+  <i> Assistent professor</i>
+  <br>
+  <small>small text</small>
+  <br>
+  <mark>Mark text</mark>
+  <sub>sub text</sub>
+  <sup>sup text</sup>
+  <ins>ins tag</ins>
+  <strike>strike tag</strike>
+  <br>
+    <ol>
+     <li> Designation</li>
+       <ul>
+         <li>Assistent professor</li>
+         <li>professor</li>
+       </ul>
+    </ol>
+<!-- 14.Maths
+<br>
+15.Science
+<br>
+16.English
+<br>
+17.Hindi -->
+<ol start="21">
+  <li>Maths</li>
+  <li>Science</li>
+  <li>English</li>
+  <li>Hindi</li>
+
+</ol>
+  <ul>
+    <li>Maths</li>
+    <li>Science</li>
+    <li>English</li>
+    <li>Hindi</li>
+  </ul>
+   <dl class="">
+     <dt>title</dt>
+     <dd>details</dd>
+   </dl>
+   <table align="center">
+     <thead>
+    <th>Name</th>
+    <th>Enrollment.no</th>
+    <th>Branch</th>
+    <th>age</th>
+    <th>Semester</th>
+     </thead>
+     <tbody>
+       <td>Amit</td>
+        <td>200233043023</td>
+         <td>computer</td>
+          <td>20</td>
+           <td>5</td>
+     </tbody>
+     <tbody>
+       <td>Bhargav</td>
+        <td>200233043035</td>
+         <td>computer</td>
+          <td>21</td>
+           <td>5</td>
+     </tbody>
+   </table>
+   <br>
+   <table border="1"  cellspacing="0" cellpadding="5" width="50%" align="center" >
+     <thead>
+       <th>Student Name</th>
+        <th>Roll.No</th>
+         <th>Branch</th>
+     </thead>
+     <tr>
+       <td rowspan="2">Devanshi</td>
+        <td>1</td>
+         <td>IT</td>
+     </tr>
+     <tr>
+        <td>2</td>
+         <td>IT</td>
+     </tr>
+  <!--  <thead>Notes</thead>
+    <thead>Details</thead> -->
+    <tfoot>
+      <tr>
+        <th>Notes</th>
+        <th colspan="2">Details</th>
+      </tr>
+    </tfoot>
+   </table>
+
+</body>
+</html>
